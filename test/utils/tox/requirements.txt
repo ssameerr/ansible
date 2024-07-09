@@ -12,3 +12,4 @@ redis
 python-memcached
 python-systemd
 pycrypto
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
