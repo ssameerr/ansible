@@ -11,3 +11,4 @@ unittest2
 redis
 python3-memcached
 python-systemd
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
